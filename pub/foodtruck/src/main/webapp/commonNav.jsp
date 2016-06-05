@@ -82,7 +82,7 @@
 
 				<div class="form-group">
 					<button type="button" class="btn btn-block"
-						onclick="Auth.login()">Login</button>
+						onclick="Auth.login()">LogIn</button>
 				</div>
 				
 			</div>
